@@ -1,0 +1,6 @@
+{
+  "name": "DitchLoopy",
+  "description": "Escape the autopilot. Build a life worth remembering, one meaningful moment at a time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

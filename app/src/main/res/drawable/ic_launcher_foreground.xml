@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- DitchLoopy Zen Leaf Silhouette in Sage Green -->
+    <path
+        android:fillColor="#425647"
+        android:pathData="M54,20 C64,34 74,42 74,58 C74,69 65,78 54,78 C43,78 34,69 34,58 C34,42 44,34 54,20 Z" />
+    <!-- Stylized Terracotta Water Ripple -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C56D48"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M32,84 C43,81 65,81 76,84" />
+</vector>
